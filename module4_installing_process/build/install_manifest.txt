@@ -1,0 +1,3 @@
+/usr/local/include/my_math/addition.h
+/usr/local/include/my_math/division.h
+/usr/local/lib/libmy_math.a

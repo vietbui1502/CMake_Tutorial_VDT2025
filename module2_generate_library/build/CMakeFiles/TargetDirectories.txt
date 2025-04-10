@@ -1,0 +1,5 @@
+/Users/vietbv/Documents/Learn/Cmake_for_VDT2025/module2_generate_library/build/CMakeFiles/my_math.dir
+/Users/vietbv/Documents/Learn/Cmake_for_VDT2025/module2_generate_library/build/CMakeFiles/my_print.dir
+/Users/vietbv/Documents/Learn/Cmake_for_VDT2025/module2_generate_library/build/CMakeFiles/calculation.dir
+/Users/vietbv/Documents/Learn/Cmake_for_VDT2025/module2_generate_library/build/CMakeFiles/edit_cache.dir
+/Users/vietbv/Documents/Learn/Cmake_for_VDT2025/module2_generate_library/build/CMakeFiles/rebuild_cache.dir

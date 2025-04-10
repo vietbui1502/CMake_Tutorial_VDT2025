@@ -1,0 +1,1 @@
+void print_result (const char* operation, float result);
